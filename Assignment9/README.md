@@ -28,7 +28,7 @@ Train Seq-to-Seq model and attention model on any of the 4 datasets from <a href
   # Model Summary
   
   - Seq to Seq model
-    '''
+```python
     Seq2Seq(
     (encoder): Encoder(
       (embedding): Embedding(10004, 128)
@@ -40,10 +40,12 @@ Train Seq-to-Seq model and attention model on any of the 4 datasets from <a href
       (rnn): GRU(384, 256)
       (fc_out): Linear(in_features=640, out_features=10004, bias=True)
       (dropout): Dropout(p=0.5, inplace=False)))
-    '''
+ 
+```
   
 - Attention Model
-  '''
+
+```python
   Seq2Seq((encoder): Encoder(
     (embedding): Embedding(10004, 64)
     (rnn): GRU(64, 64, bidirectional=True)
@@ -58,6 +60,6 @@ Train Seq-to-Seq model and attention model on any of the 4 datasets from <a href
     (rnn): GRU(192, 64)
     (fc_out): Linear(in_features=256, out_features=10004, bias=True)
     (dropout): Dropout(p=0.5, inplace=False)))
-  
-  '''
+ 
+```
   
