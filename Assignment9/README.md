@@ -18,10 +18,10 @@ Train Seq-to-Seq model and attention model on any of the 4 datasets from <a href
   
 - Twitter_cs
 
-  - <a href=https://github.com/nikshrimali/ENDGAME_MERGER/blob/main/Assignment9/Assignment_9_seq2seq-twitter_cs.ipynb">Seq-to-Seq model</a>
+  - <a href="https://github.com/nikshrimali/ENDGAME_MERGER/blob/main/Assignment9/Assignment_9_seq2seq-twitter_cs.ipynb">Seq-to-Seq model</a>
   - <a href="https://github.com/nikshrimali/ENDGAME_MERGER/blob/main/Assignment9/Assignment_9-seq2seq-with-attention-twitter_cs.ipynb">Attention Model</a>
   
- - RecipieQA
+- RecipieQA
   - <a href="https://github.com/nikshrimali/ENDGAME_MERGER/blob/main/Assignment9/SQUAD_SEQ2SEQ.ipynb">Seq-to-Seq model</a>
   - <a href="https://github.com/nikshrimali/ENDGAME_MERGER/blob/main/Assignment9/RecipieQA_ENDS9_M1.ipynb">Attention Model</a>
   
@@ -62,4 +62,5 @@ Train Seq-to-Seq model and attention model on any of the 4 datasets from <a href
     (dropout): Dropout(p=0.5, inplace=False)))
  
 ```
-  
+
+## Results
