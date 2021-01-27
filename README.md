@@ -7,5 +7,5 @@ Assignment Submission by Team ENDGAME
 - TAPAN (Tapanmittal13@gmail.com)
 - NIKHIL SHRIMALI (nshrimali21@gmail.com)
 - RAMKUMAR M (rkm1415@gmail.com)
-- Divya Kamat ()
+- Divya Kamat (divya.r.kamat@gmail.com)
 
