@@ -2,7 +2,7 @@
 
 The goal is to  write a transformer-based model that can translats English text to python code(with proper whitespace indentations)
 
-The training dataset contains around 4600+ examples of English text to python code. 
+The training [dataset](english_python_data_cleaned.txt) contains around 4600+ examples of English text to python code. 
 - must use transformers with self-attention, multi-head, and scaled-dot product attention in the model
 - There is no limit on the number of training epochs or total number of parameters in the model
 - should have trained a separate embedding layer for python keywords and paid special attention to whitespaces, colon and other things (like comma etc)
